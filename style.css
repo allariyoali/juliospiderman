@@ -1,0 +1,27 @@
+body
+{
+  color: white;
+  background:#5A3E51;
+}
+.heading
+{
+  width: 80%;
+  font-size: 22px;
+  background: #B87C4C;
+}
+#camera 
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+.name_of_objects, #result_object_name  , #result_object_accuracy
+{
+  color: #E2B659;
+  font-family: fantasy;
+  font-size: 25px;
+}
+#btn btn-info
+{
+  background: #F9F871;
+}
